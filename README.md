@@ -4,5 +4,5 @@ Boilerplate project for setting up a rest api around a sqlite database, to be us
 ## Planned Work
 - OpenApi/Swagger Support - Done 
 - Django Framework - Done
-- Basic monitoring support through prometheus or similar tooling - TODO
+- Basic monitoring support through prometheus or similar tooling - Done
 - Testing integration - TODO
